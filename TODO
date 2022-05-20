@@ -1,0 +1,8 @@
+gatling
+aws_creds
+sqs
+json spec ingest
+endpoint_ingest
+oob redis, sqs, s3, kafka TODO
+serial or parallel (writing)
+parallel threads

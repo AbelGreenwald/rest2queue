@@ -1,0 +1,14 @@
+[package]
+name = "rest2queue"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.10"
+jsonschema = "0.16"
+serde_json = "1.0"
+serde = "1"
+rocket_contrib = "0.4"
+#tokio = { version = "1", features = ["full"] }
